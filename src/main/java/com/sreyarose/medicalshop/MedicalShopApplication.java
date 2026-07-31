@@ -1,4 +1,4 @@
-package com.sreyarose.medical_shop;
+package com.sreyarose.medicalshop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
