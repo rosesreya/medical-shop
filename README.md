@@ -1,6 +1,6 @@
 # Medical Shop Inventory and Billing Management System
 
-A full-stack pharmacy management application built using **Flutter, Spring Boot, and PostgreSQL**. The system is designed to simplify medical shop operations by managing products, batch-level inventory, purchases, customers, and sales billing.
+A full-stack pharmacy management system built with Flutter, Spring Boot, and PostgreSQL. It supports medicine and batch-level inventory management, purchase tracking, customer management, and sales billing, with FEFO-based stock allocation and role-based access control.
 
 ## Tech Stack
 
